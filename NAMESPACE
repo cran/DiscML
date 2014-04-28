@@ -1,3 +1,4 @@
 exportPattern("^[[:alpha:]]+")
+S3method(print, DiscML)
 
 import(ape)
